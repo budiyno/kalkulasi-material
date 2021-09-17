@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kalkulasi Material</string>
+    <string name="batch_remaining">Batch remaining</string>
+    <string name="solution_mixing">Solution mixing (liter)</string>
+    <string name="kalkulasi_material">Kalkulasi Material</string>
+    <string name="solution_at">Solution AT (liter)</string>
+    <string name="stock_karton">Stock karton (pcs) :</string>
+    <string name="stock_label">Stock label (roll) :</string>
+    <string name="stock_preform">Stock preform (niktener) :</string>
+    <string name="stock_cap">Stock cap (box) :</string>
+    <string name="created_by">created by budiyono</string>
+    <string name="stock_akhir_material">Stock akhir Material</string>
+    <string name="total_solution">Total solution :</string>
+    <string name="liter">Liter</string>
+    <string name="stock_karton_end">Stock karton :</string>
+    <string name="pcs">pcs</string>
+    <string name="stock_label_2">Stock label :</string>
+    <string name="roll">roll</string>
+    <string name="stock_preform_2">Stock preform :</string>
+    <string name="niktener">niktener</string>
+    <string name="stock_cap_2">Stock cap :</string>
+    <string name="box">box</string>
+    <string name="karton">Karton</string>
+    <string name="label">Label</string>
+    <string name="cap">Cap</string>
+    <string name="preform">Preform</string>
+</resources>
